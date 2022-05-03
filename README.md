@@ -62,6 +62,7 @@ flag: `rspec spec/hashketball_spec.rb -e num_points_scored`.
 > block. You can run all the tests under it by using that block's `String` as
 > an argument to `-e`.
 
+
 That `num_points_scored` method produces an _insight_. Here's a specification:
 
 - Build a method, `num_points_scored` that takes in an argument of a player's
